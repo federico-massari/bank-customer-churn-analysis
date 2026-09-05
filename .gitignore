@@ -1,0 +1,19 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# DBeaver
+.metadata/
+
+# Tableau
+*.twb
+*.twbx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
